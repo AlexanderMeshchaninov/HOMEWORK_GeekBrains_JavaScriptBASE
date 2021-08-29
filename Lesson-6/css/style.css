@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    font-size: 50px;
+}
+.busket_block {
+    text-align: right;
+    margin-right: 300px;
+    font-size: 20px;
+}
+.button_save {
+    font-size: 20px;
+}
+.product_string {
+    text-align: center;
+    margin-bottom: 0.5cm;
+}
+.big_picture {
+    font-size: 20px;
+    text-align: left;
+}
+.small_picture {
+    font-size: 20px;
+    text-align: center;
+}
+.buttons_position {
+    text-align: center;
+    margin-top: 0.5cm;
+}
